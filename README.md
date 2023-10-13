@@ -2,6 +2,7 @@
 
 ## Corpus
 - [La Nación digital - Cultura Digital UDP](https://culturadigital.udp.cl/index.php/lanacion/)
+- [Listas de espera en Chile - Báez et al.](https://zenodo.org/records/3926705)
 
 ## Cursos
 - Natural Language Processing (CC6205) UChile por Felipe Bravo-Marquez [Repo](https://github.com/dccuchile/CC6205) y [Videos](https://www.youtube.com/playlist?list=PLppKo85eGXiXIh54H_qz48yHPHeNVJqBi)
